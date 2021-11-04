@@ -1,0 +1,35 @@
+Name: Dongwan Xu
+USC ID: 5471977350
+News site crawled: foxnews.com
+Number of threads: 10
+
+Fetch Statistics
+================
+# fetches attempted: 19995
+# fetches succeeded: 19700
+# fetches failed or aborted: 295
+
+Outgoing URLs:
+==============
+Total URLs extracted: 1260559
+# unique URLs extracted: 109680
+# unique URLs within News Site: 46509
+# unique URLs outside News Site: 63171
+
+Status Codes:
+=============
+200 OK: 19700
+301 Moved Permanently: 254
+404 Not Found: 41
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 0
+10KB ~ <100KB: 14634
+100KB ~ <1MB: 1258
+>= 1MB: 13
+
+Content Types:
+==============
+text/html: 15905
